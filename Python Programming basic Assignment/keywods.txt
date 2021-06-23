@@ -1,0 +1,10 @@
+IN - short hand for OR, where you can use multiple OR condition in single IN condition
+BETWEEN - to select data in range
+IS NULL to verify is attribute contains null or not 
+
+LIKE - particluar character using wildcard
+DISTINCT - keyword to identify unique value for attribute
+AS -> to add alias name for column
+CASE - to segrregate values 
+DATEDIFF - to calutae date difference between 2 columns-> input is interval which could be yy
+then start date then end date 
